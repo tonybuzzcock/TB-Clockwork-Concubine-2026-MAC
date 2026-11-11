@@ -76,7 +76,7 @@ make_clapfirst_plugins(
 
     AUV2_MANUFACTURER_NAME "TB"
     AUV2_MANUFACTURER_CODE "TBel"
-    AUV2_SUBTYPE_CODE      "TBcc"
+    AUV2_SUBTYPE_CODE      "TBcw"   # was TBcc, which TB Copicat also uses
     AUV2_INSTRUMENT_TYPE   "aufx"
 )
 

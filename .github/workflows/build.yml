@@ -135,7 +135,7 @@ jobs:
           killall -9 AudioComponentRegistrar 2>/dev/null || true
           sleep 2
           auval -a | grep -i "TBel" || true
-          auval -v aufx TBcc TBel | tee auval.log
+          auval -v aufx TBcw TBel | tee auval.log
           grep -q "AU VALIDATION SUCCEEDED" auval.log
 
       - name: clap-validator
