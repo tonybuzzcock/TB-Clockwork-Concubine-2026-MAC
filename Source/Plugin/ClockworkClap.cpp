@@ -45,7 +45,7 @@ const clap_plugin_descriptor_t kDescriptor = {
     kPluginId,
     "TB Clockwork Concubine",
     "TB",
-    "https://github.com/tonybuzzcock/Clockwork-Concubine-2026-MAC",
+    "https://github.com/tonybuzzcock/TB-Clockwork-Concubine-2026-MAC",
     "",
     "",
     "1.0.0",
