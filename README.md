@@ -15,12 +15,15 @@ Concubine, built from its schematic (in `Docs/`). Personal, non-commercial use.
 GitHub → Actions → latest run → Artifacts → `TB-Clockwork-Concubine-mac`, unzip,
 then follow `INSTALL.txt`. In short:
 
-- `TB Clockwork Concubine.vst3` → `~/Library/Audio/Plug-Ins/VST3/`
-- `TB Clockwork Concubine.component` → `~/Library/Audio/Plug-Ins/Components/`
-- `TB Clockwork Concubine.clap` → `~/Library/Audio/Plug-Ins/CLAP/`
+- `TB Clockwork Concubine.vst3` → `VST3/`
+- `TB Clockwork Concubine.component` → `Components/`
+- `TB Clockwork Concubine.clap` → `CLAP/`
 
-Apple hasn't notarised the plugins, so clear the quarantine flag once in Terminal (the
-exact command is in `INSTALL.txt`), then rescan plugins in your DAW.
+These folders are in `/Library/Audio/Plug-Ins/` (the main Library) or
+`~/Library/Audio/Plug-Ins/` (your user Library). Use whichever one your other
+plugins are in. Apple hasn't notarised the plugins, so run the short Terminal
+lines in `INSTALL.txt` for the folder you used. They clear macOS's download
+tags and re-sign the plugins on your Mac. Then rescan plugins in your DAW.
 
 ## Controls
 
