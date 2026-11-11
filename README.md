@@ -44,7 +44,7 @@ settings and the two sweeps in step. A mono source is processed once.
 480 × 720, the pedal's 2:3 portrait shape. At the top are the FREQUENCY, DEPTH
 and RESONANCE knobs (scales marked 0 and 10). Below them are the name plate and
 the striped panel with the stomp switch, which glows red with the effect in.
-The strip along the bottom has the TB Electronic mark, Input, Output, presets
+The strip along the bottom has the TB electronic logo, Input, Output, presets
 and the readout.
 
 Drag a knob up or down to turn it (hold Shift for fine control). Double-click a
